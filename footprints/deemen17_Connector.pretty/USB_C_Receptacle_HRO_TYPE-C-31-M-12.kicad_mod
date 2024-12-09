@@ -49,15 +49,12 @@
   (pad "B12" smd rect (at 3.25 1.445 180) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0a89fe9b-59bf-482c-9d98-b31adc7269fb))
   (pad "S1" thru_hole oval (at -4.32 -3.65 180) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask") (tstamp 936dbf09-d873-41f3-8551-53d6b8cd1ca4))
   (pad "S1" thru_hole oval (at -4.32 0.53 180) (size 1 2.1) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask") (tstamp 7f4b0aee-a094-47eb-84a1-4d76eed7332a))
+  (pad "S1" smd rect (at 0 -3.65) (size 8.64 0.981) (layers "F.Cu" "F.Mask")
+    (thermal_bridge_angle 45) (tstamp 0a447c9a-aeb4-445d-9ec5-d4233a5f09c4))
   (pad "S1" thru_hole oval (at 4.32 -3.65 180) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask") (tstamp 8f9eeb33-e286-45d9-8587-d74e21ad9770))
   (pad "S1" thru_hole oval (at 4.32 0.53 180) (size 1 2.1) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask") (tstamp f6c4fb2e-1560-4c98-a4da-d3f3f074bd57))
-  (model "${KICAD6_3RD_PARTY}/CON_TYPE-C-31-M-12.step"
-    (offset (xyz 4.5 6.3 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
-  (model "D:/Keyboard/My_Project/PCB/kicad_libs/deemen17_lib/3d/CON_TYPE-C-31-M-12.step"
-    (offset (xyz 4.5 6.2 0))
+  (model "D:/Keyboard/My_Project/PCB/kicad_libs/deemen17_Library/3d_models/CON_TYPE-C-31-M-12.step"
+    (offset (xyz 4.46 6.25 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))
   )

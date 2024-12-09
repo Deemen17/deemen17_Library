@@ -35,7 +35,7 @@
   (pad "2" smd roundrect (at -1.55 0.55 270) (size 0.7 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp be03071c-e6a8-49f7-a2da-830c80aebed5))
   (pad "3" smd roundrect (at 1.55 0.55 270) (size 0.7 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp d88b829a-4bbc-46ee-b0ac-93c47d53f17e))
   (pad "4" smd roundrect (at 1.55 -0.55 270) (size 0.7 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 142fa9d8-7b42-4374-987d-d5f5ef8d3ef4))
-  (model "D:/Keyboard/My_Project/PCB/kicad_libs/deemen17_lib/3d/LED_MHT151RGBCT.step"
+  (model "D:/Keyboard/My_Project/PCB/kicad_libs/deemen17_Library/3d_models/LED_MHT151RGBCT.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -180 0 0))

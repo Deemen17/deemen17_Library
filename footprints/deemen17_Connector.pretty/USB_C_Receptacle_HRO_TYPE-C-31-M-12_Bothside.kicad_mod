@@ -63,6 +63,10 @@
   (pad "B12" smd rect (at 3.25 3.545 180) (size 0.6 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0a89fe9b-59bf-482c-9d98-b31adc7269fb))
   (pad "S1" thru_hole oval (at -4.32 -1.55 180) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask") (tstamp 936dbf09-d873-41f3-8551-53d6b8cd1ca4))
   (pad "S1" thru_hole oval (at -4.32 2.63 180) (size 1 2.1) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask") (tstamp 7f4b0aee-a094-47eb-84a1-4d76eed7332a))
+  (pad "S1" smd rect (at 0 -1.55) (size 8.64 0.981) (layers "F.Cu" "F.Mask")
+    (thermal_bridge_angle 45) (tstamp f2a59b09-4966-4eaa-815f-1127442f4502))
+  (pad "S1" smd rect (at 0 -1.55) (size 8.64 0.981) (layers "B.Cu" "B.Mask")
+    (thermal_bridge_angle 45) (tstamp 1704e56c-c989-4f8d-922d-f20630c587ac))
   (pad "S1" thru_hole oval (at 4.32 -1.55 180) (size 1 1.6) (drill oval 0.6 1.2) (layers "*.Cu" "*.Mask") (tstamp 8f9eeb33-e286-45d9-8587-d74e21ad9770))
   (pad "S1" thru_hole oval (at 4.32 2.63 180) (size 1 2.1) (drill oval 0.6 1.7) (layers "*.Cu" "*.Mask") (tstamp f6c4fb2e-1560-4c98-a4da-d3f3f074bd57))
   (model "${KICAD6_3RD_PARTY}/CON_TYPE-C-31-M-12.step"

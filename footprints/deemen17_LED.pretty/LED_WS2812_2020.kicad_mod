@@ -7,17 +7,13 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp cf2cb3c6-dbda-4e71-b0e9-a4fdd9245c98)
   )
-  (fp_text value "WS2812_2020" (at 0 -3.2) (layer "F.Fab")
+  (fp_text value "WS2812_2020" (at 0 -3.2) (layer "F.Fab") hide
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 519efb65-e906-4119-9dd5-26ef8818ff2e)
   )
   (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
-      (effects (font (size 0.6 0.6) (thickness 0.1) bold))
+      (effects (font (size 0.4 0.4) (thickness 0.1) bold))
     (tstamp 225ac73e-2c48-4957-921e-2db91f99adba)
-  )
-  (fp_text user "1" (at -1.75 -0.5 unlocked) (layer "F.Fab")
-      (effects (font (size 0.6 0.6) (thickness 0.1) bold) (justify left bottom))
-    (tstamp 9a2ee274-8657-49c7-a2d0-5c50c2462bdf)
   )
   (fp_poly
     (pts

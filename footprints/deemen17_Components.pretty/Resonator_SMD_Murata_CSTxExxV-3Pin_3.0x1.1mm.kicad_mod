@@ -3,17 +3,13 @@
   (descr "SMD Resomator/Filter Murata CSTCE, https://www.murata.com/en-eu/products/productdata/8801162264606/SPEC-CSTNE16M0VH3C000R0.pdf")
   (tags "SMD SMT ceramic resonator filter")
   (attr smd)
-  (fp_text reference "REF**" (at 0 -2) (layer "F.SilkS") hide
-      (effects (font (size 1 1) (thickness 0.15)))
+  (fp_text reference "REF**" (at 0 0) (layer "F.SilkS") hide
+      (effects (font (size 0.4 0.4) (thickness 0.15)))
     (tstamp 600c1888-8cd3-4281-95cb-b6d669cdbad6)
   )
-  (fp_text value "Resonator_SMD_Murata_CSTxExxV-3Pin_3.0x1.1mm" (at 0 1.8) (layer "F.Fab") hide
-      (effects (font (size 0.2 0.2) (thickness 0.03)))
+  (fp_text value "${VALUE}" (at 0 1.5) (layer "F.Fab")
+      (effects (font (size 0.4 0.4) (thickness 0.03)))
     (tstamp 34db6c84-cbda-4d09-835a-ba91bb9f8ef6)
-  )
-  (fp_text user "${REFERENCE}" (at 0.1 -0.05) (layer "F.Fab")
-      (effects (font (size 0.6 0.6) (thickness 0.08)))
-    (tstamp 7b4ada8e-965f-4400-8e14-75fe3de8decf)
   )
   (fp_line (start -2 -1.2) (end -2 0.8)
     (stroke (width 0.12) (type solid)) (layer "F.SilkS") (tstamp e38b8b6b-7e22-451a-a4d9-5f404d863d95))

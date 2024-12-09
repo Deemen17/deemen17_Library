@@ -57,18 +57,8 @@
   (pad "MP" smd roundrect (at 2.8 -1 180) (size 1.4 1.85) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083328571) (tstamp 8aba1d54-30d2-4991-b30e-ee426e95b501))
   (pad "MP" thru_hole circle (at 2.8 1.85) (size 0.6 0.6) (drill 0.3) (layers "*.Cu") (tstamp bb8fae01-78e8-4525-aec9-0a1fa9b5b985))
   (pad "MP" smd roundrect (at 2.8 1.85 180) (size 1.4 1.85) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2083328571) (tstamp 2e65a4bc-42e1-4320-9963-fb4d8868130c))
-  (model "D:/Keyboard/KicadFootprint/marbastlib/3d/CON_SM04B-SRSS-TB.step"
+  (model "D:/Keyboard/My_Project/PCB/kicad_libs/deemen17_Library/3d_models/CON_SM04B-SRSS-TB.step"
     (offset (xyz 0 1.3 -0.35))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
-  (model "${KICAD6_3RD_PARTY}/CON_SM04B-SRSS-TB.step"
-    (offset (xyz 0 1.2 -0.3))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
-  (model "D:/Keyboard/My_Project/PCB/kicad_libs/deemen17_lib/3d/CON_SM04B-SRSS-TB.step"
-    (offset (xyz 0 1.2 -0.35))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
