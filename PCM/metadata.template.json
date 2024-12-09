@@ -1,25 +1,25 @@
 {
     "$schema": "https://go.kicad.org/pcm/schemas/v1",
-    "name": "marbastlib",
+    "name": "Deemen17 Library Kicad",
     "description": "A collection of symbols/footprints for keyboard design",
-    "description_full": "This library focuses on keyboard design, and features - among others - footprints for Cherry MX, Alps SKCM, Hi-Tek 725, Kailh Choc v1 and v2, and Gateron KS-33.",
-    "identifier": "com.github.ebastler.marbastlib",
+    "description_full": "This library focuses on keyboard design, and features.",
+    "identifier": "com.github.Deemen17.deemen17_Library",
     "type": "library",
     "author": {
-        "name": "ebastler and MarvFPV",
+        "name": "Deemen17",
         "contact": {
-            "discord": "https://discord.gg/UEhmQbQw"
+            "discord": "https://discord.gg/nN8AxSNnjp"
         }
     },
     "maintainer": {
-        "name": "ebastler and MarvFPV",
+        "name": "Deemen17",
         "contact": {
-            "discord": "https://discord.gg/UEhmQbQw"
+            "discord": "https://discord.gg/nN8AxSNnjp"
         }
     },
     "license": "CERN-OHL",
     "resources": {
-        "homepage": "https://github.com/ebastler/marbastlib"
+        "homepage": "https://github.com/Deemen17/deemen17_Library"
     },
     "versions": [{
         "version": "VERSION_HERE",
